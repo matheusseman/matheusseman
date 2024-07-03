@@ -28,5 +28,7 @@ Sou um entusiasta do sistema operacional Linux, tendo adquirido meu conhecimento
 
 Atualmente, trabalho com análises de segurança e pentests, e estou me preparando para a certificação ISO 27001, que trata da segurança da informação em empresas. Meu perfil profissional é marcado pela independência e pela busca constante por novas oportunidades para expandir meus conhecimentos e explorar as tecnologias mais recentes.
 
+Além disso, possuo experiência sólida em monitoramento de redes de computadores utilizando Zabbix, combinando eficientemente o uso de Bash Script para automatização e gerenciamento de infraestruturas complexas.
+
 ---
 
